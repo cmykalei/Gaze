@@ -35,7 +35,7 @@ Then start the environment
 ```bash
 source scripts/activate.sh
 ```
-b
+
 ## Commands
 1. To open the calibration and camera test use `gaze` in the command line.
 2. To exit the environment use `deactivate` in the command line.
